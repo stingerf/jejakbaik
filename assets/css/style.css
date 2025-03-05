@@ -1314,6 +1314,20 @@ textarea.input-field {
   #MEDIA QUERIES
 \*-----------------------------------*/
 
+
+@media (min-width: 320px) {
+
+/**
+ * HEADER
+ */
+
+.w-100{
+  height: 300px;
+  width: 240px;
+}
+
+}
+
 /**
  * responsive for larger than 480px screen
  */
