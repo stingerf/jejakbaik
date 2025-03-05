@@ -1317,9 +1317,6 @@ textarea.input-field {
 
 @media (min-width: 320px) {
 
-/**
- * HEADER
- */
 
 .w-100{
   height: 300px;
@@ -1613,6 +1610,12 @@ textarea.input-field {
     --fs-4: 1.5rem;
     color: var(--btn-color);
     letter-spacing: -0.5px;
+  }
+
+  .w-100{
+    height: 300px;
+    width: 420px;
+    margin-right: 8em;
   }
 
   
